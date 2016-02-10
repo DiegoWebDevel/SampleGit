@@ -2,10 +2,11 @@
 
 int main(int argc, char *argv[])
 {
-	for(int i = 0; i <= 10; i++) 
+	for(int i = 0; i <= 10; ++i) 
 	{
+		int j[] = 1;
 		std::cout << "Alo";
-		for(int j = 0; j <= 1; j++)
+		// for(int j = 1; j == 1; ++j)
 			std::cout << " git." << std::endl;
 	}
 	
