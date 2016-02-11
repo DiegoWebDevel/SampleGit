@@ -1,5 +1,7 @@
 #include <iostream>
 
+// #typedef int Integer
+
 int main(int argc, char *argv[])
 {
 	for(int i = 0; i <= 10; ++i) 
