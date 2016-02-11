@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(int argc, char *argv[])
+// int main(int argc, char *argv[])
+auto main() -> int
 {
 	for(int i = 0; i <= 10; ++i) 
 	{
